@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/37f9cea97a41dbecb767c5713afc098b00845409/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_3a7382344650c79d8eb7a016a9bcf1e39061285d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_cb15eb0414c43b9775ccf77aed37e16ddf9d63fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/af8f555962f7095c4e0aa6c583bc45bc62daa4c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_e83b21fc4642a7669e554b9e2337aafb56d5b33c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_266b7b187c7411fd4eed1653bf1fee8186e39763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/624cec82fffff013f164e39e492552cc66bf3397/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_628c7543adb9275081b663310237e4c4943b189c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/5c8f6fb9123823e9ab04db2cec8e4f406f1c18cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_8f90d44e8abcded4507cf1b4fd9980caf2a727f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/cc5c5b2303eeb6f7f96489b0ee8c64002e751881/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_b6ee3341ed0851ef223523c422ffb25245ce6c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/69f177983c5edb9a2e57c48a79db6e96a170d100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_e33acb2e96d035aaf61a22005c638d2eb0bccd00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/9dd9030073017db2df687cb19a4a13912d739f3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_072da8418401afc6f3cd454dc0ce29c486af1760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/0de6dcf4f20daf744ad096243e42b5abfabbf655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_7ac6b40d7b1ef4b8ea8d2191e90b61eea8a1329a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/00b2b26a07989ac503ea1a91e61425fefe25828d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_edbbc514f40d1ed096f43ed2570f3b04bd85d5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/b1269b7c8d5539460a80cd2127559e5ad2811d04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_8881c96d4fcac448ad07bd44ee895a6b0f711c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/ac9ad74b1f185beb19673349164efcd7f52ee0c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_c8c91ce5dd1396bbe1c6adc77c079fc3c07e0a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/1bd144bcbe4636ee727efaa4a4f7109cb0964069/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_a3fb9b82b5efcc394fc1b4b2f6a29038d66cb15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andrew.thomas/.android/build-cache/32377ef5f205c53612b32bbe2cc11eb73e2ba2b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/andrew.thomas/GitHub/Brewery/app/build/intermediates/pre-dexed/debug/classes_39057c78bccf671f99ab9f54e7d0415157c6c7b7.jar" />
+    </item>
+
+</items>

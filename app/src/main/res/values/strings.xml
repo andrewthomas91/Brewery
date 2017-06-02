@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Brewery</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string-array name="options">
+        <item>Hefeweizen</item>
+        <item>California Common</item>
+        <item>Oatmeal Chocolate Stout</item>
+    </string-array>
 </resources>
